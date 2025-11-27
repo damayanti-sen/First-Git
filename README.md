@@ -1,2 +1,3 @@
 # First-Git
-First as well as a trial
+First repository as well as a trial
+Changing for first time 
